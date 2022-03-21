@@ -19,7 +19,7 @@ const plugins = [
   shuffle([
     require("ssb-about"),
     require("ssb-blobs"),
-    require("ssb-invite"),
+    require("ssb-invite-client"),
     require("ssb-lan"),
     require("ssb-logging"),
     require("ssb-meme"),
